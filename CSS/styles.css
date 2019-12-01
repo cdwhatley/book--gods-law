@@ -198,8 +198,8 @@ header .titlepage-image {
 .who-is-israel .seal-of-israel-image
 {
   margin-top: 0px;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
 }
 
 .who-is-israel .jews-praying-image
@@ -219,8 +219,8 @@ header .titlepage-image {
 .who-is-israel .grafted-in-image
 {
   margin-top: 0px;
-  width: 200px;
-  height: 300px;
+  width: 175px;
+  height: 250px;
 }
 
 .nailed-to-the-cross .nailed-to-cross-image
@@ -313,6 +313,20 @@ header .titlepage-image {
 }
 
 .purpose-of-Gods-law .just-sanct-list
+{
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-left: 15px;
+}
+
+.purpose-of-Gods-law .whole-counsel-image
+{
+  margin-top: 0px;
+  width: 250px;
+  height:242px;
+}
+
+.purpose-of-Gods-law .whole-counsel-list
 {
   margin-top: 0px;
   padding-top: 0px;
