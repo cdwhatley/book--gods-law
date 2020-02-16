@@ -347,6 +347,19 @@ header .titlepage-image {
   height:196px;
 }
 
+.moral-decline .usa-moral-decline-image
+{
+  margin-top: 0px;
+  width: 300px;
+  height:188px;
+}
+
+.moral-decline ul.Stats li
+{
+    padding-bottom: 10px;
+    color: red;
+}
+
 .tag {
   background-color: orange;
   color: black;
@@ -371,6 +384,7 @@ header .titlepage-image {
 .card:hover {
   border-color: #ff99ff;
 }
+
 
 ul.TOC {
   padding-left: 10px;
