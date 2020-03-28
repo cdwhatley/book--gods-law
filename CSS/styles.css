@@ -347,6 +347,25 @@ header .titlepage-image {
   height:196px;
 }
 
+.christian-arguments .law-and-gospel-image
+{
+  margin-top: 0px;
+  width: 300px;
+  height:170px;
+}
+
+.christian-arguments .done-away-with-question-image
+{
+  margin-top: 0px;
+  width: 300px;
+  height:157px;
+}
+
+.christian-arguments ol.arguments li
+{
+    padding-bottom: 10px;
+    color: black;
+}
 .moral-decline .usa-moral-decline-image
 {
   margin-top: 0px;
