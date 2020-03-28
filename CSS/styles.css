@@ -360,6 +360,27 @@ header .titlepage-image {
     color: red;
 }
 
+.supporting-scriptures .what-God-says-image
+{
+  margin-top: 0px;
+  width: 300px;
+  height:228px;
+}
+
+.supporting-scriptures .moses-receiving-Gods-law-image
+{
+  margin-top: 0px;
+  width: 300px;
+  height:225px;
+}
+
+.supporting-scriptures .king-solomon-image
+{
+  margin-top: 0px;
+  width: 300px;
+  height:250px;
+}
+
 .tag {
   background-color: orange;
   color: black;
