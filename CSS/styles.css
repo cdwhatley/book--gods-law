@@ -374,6 +374,12 @@ header .titlepage-image {
   height:157px;
 }
 
+.christian-arguments .nailed-to-cross-image
+{
+  margin-top: 0px;
+  width: 300px;
+  height:394px;
+}
 .christian-arguments ol.arguments li
 {
     padding-bottom: 10px;
@@ -437,7 +443,6 @@ header .titlepage-image {
 .card:hover {
   border-color: #ff99ff;
 }
-
 
 ul.TOC {
   padding-left: 10px;
