@@ -53,6 +53,18 @@ body {
   color: green;
 }
 
+.side-topic 
+{
+  margin: 30px;
+   border: 1px solid #000;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.side-topic-title
+{
+  text-align: center;
+}
 
 /* Link Styles */
 
@@ -418,6 +430,7 @@ header .titlepage-image {
   width: 300px;
   height:250px;
 }
+
 
 .tag {
   background-color: orange;
