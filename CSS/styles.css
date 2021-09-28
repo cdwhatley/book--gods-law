@@ -447,6 +447,13 @@ header .titlepage-image {
   height:250px;
 }
 
+.the-cross .the-cross-image
+{
+  margin-top: 0px;
+  width: 300px;
+  height:427px;
+}
+
 
 .tag {
   background-color: orange;
