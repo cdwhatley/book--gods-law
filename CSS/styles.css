@@ -349,6 +349,13 @@ header .titlepage-image {
   padding-top: 0px;
   margin-left: 15px;
 }
+      <ul class=just-sanct-list>
+        <li>A process, not an instantaneous event</li>
+        <li>Starts immediately after salvation/justification and continues for the rest of your life</li>
+        <li>Involves you working with God, applying God’s Word to your life to become more godly (more holy, less sinful)</li>
+        <li>Referred to by Paul in the book of Philipians as "working out your salvation"</li>
+        <li>The goal is to be conformed to the image of Messiah.</li>
+      </ul>
 
 .purpose-of-Gods-law .whole-counsel-image
 {
@@ -358,6 +365,13 @@ header .titlepage-image {
 }
 
 .purpose-of-Gods-law .whole-counsel-list
+{
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-left: 15px;
+}
+
+.christian-arguments .law-divisions-list
 {
   margin-top: 0px;
   padding-top: 0px;
@@ -419,6 +433,12 @@ header .titlepage-image {
   height: 150px;
 }
 
+.christian-arguments .divisions-of-gods-law-image
+{
+  margin-top: 0px;
+  width: 200px;
+  height: 200px;
+}
 .moral-decline .usa-moral-decline-image
 {
   margin-top: 0px;
